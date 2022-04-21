@@ -12,4 +12,4 @@ Una de los temas que fue más difícil de solucionar en nuestro formulario fue q
 
 A continuación, adjuntamos los links de 2 replit con los hito 1 e hito 2, respectivamente:
 https://replit.com/@Gaby197/TRIVIA-QUMICA#index.html  : Hito 1
-
+https://replit.com/@Gaby197/trivia-quimica-2#Projecto_Trivia_hito2/index.html : HIto 2
