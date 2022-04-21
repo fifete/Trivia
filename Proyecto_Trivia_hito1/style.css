@@ -1,0 +1,17 @@
+.wow {
+  width: 100px;
+}
+
+h1{
+  color: #FFD700; 
+  background-color: #f50000; 
+  border: 2px solid black;
+}
+
+h2{
+  color: #ff160a; 
+}
+
+#inicio{
+  text-align: center;
+}
