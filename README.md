@@ -1,4 +1,6 @@
 # Trivia
+Para trabajar en nuestro proyecto, elegimos el tema de los elementos quimicos y planteamos 3 preguntas con sus respectivas alternativas. Luego, ambas decidimos armar las preguntas y respuestas en el HTML 
+
 Realización del prototipo para el hito 1:
 Se coloca 1 botón ('responder y ver resultados') con el cual la usuaria es capaz de observar, en el alert, las respuestas que marcó y cuáles con las respuestas correctas
 ![Hito_1](https://user-images.githubusercontent.com/103393649/164474908-49a10709-d5fc-4980-ad5d-e3e43f4c6f16.jpg)
