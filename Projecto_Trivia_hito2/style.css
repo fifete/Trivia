@@ -3,4 +3,16 @@ h1{
     background-color: yellow; 
     border: 1px solid black;
     text-align: center;
-  }
+}
+
+h2{
+    color: red;
+}
+
+#bienvenida{
+    color: black;
+}
+
+#inicio{
+    text-align: center;
+}
